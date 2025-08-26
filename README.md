@@ -14,7 +14,11 @@ A comprehensive image editing application built in Java, designed to provide pow
 
 ## Tech Stack  
 - **Java:** Core programming language for application development.  
-- **Swing:** For building the graphical user interface (GUI).  
+- **Swing:** For building the graphical user interface (GUI).
+
+## Images
+![Image](images/AIE_1.png)
+![Image](images/AIE_2.png)
 
 ## Contributors  
 - [Mizab](https://github.com/Mizab1)
